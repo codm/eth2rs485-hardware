@@ -188,7 +188,7 @@ Bridge V0.4</text>
 <wire x1="30.15" y1="44" x2="31" y2="44" width="0.127" layer="150"/>
 <wire x1="1.55" y1="42.4" x2="1.55" y2="44" width="0.127" layer="150"/>
 <wire x1="30.15" y1="42.4" x2="30.15" y2="44" width="0.127" layer="150"/>
-<text x="15.85" y="18.35" size="1.27" layer="25" font="vector" ratio="10" distance="40" rot="R180" align="center">codm.de (c) 2018</text>
+<text x="15.85" y="18.35" size="1.27" layer="25" font="vector" ratio="10" distance="40" rot="R180" align="center">codm.de (c) 2019</text>
 <text x="7" y="20" size="1.778" layer="27" font="vector">5V FOCA</text>
 <text x="10.15" y="12.4" size="0.8" layer="25" font="vector">5V</text>
 <text x="29.15" y="43.3" size="1.778" layer="26" font="vector" rot="MR270" align="bottom-center">90040-V0.1</text>
